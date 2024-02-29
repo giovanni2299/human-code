@@ -42,6 +42,7 @@
     - ALTRIMENTI prendo un cestino
  - entrare nel supermercato
  - prendere i prodotti della lista
+ - dirigerci alla cassa
 ### gestione dei pagamenti
  - suddividere i metodi di pagamento
    - coupon
